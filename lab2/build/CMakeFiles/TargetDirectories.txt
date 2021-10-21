@@ -1,0 +1,4 @@
+/home/anton/lab2_ak/build/CMakeFiles/edit_cache.dir
+/home/anton/lab2_ak/build/CMakeFiles/rebuild_cache.dir
+/home/anton/lab2_ak/build/CMakeFiles/calcLib.dir
+/home/anton/lab2_ak/build/CMakeFiles/calculator.dir
